@@ -16,7 +16,7 @@
     "Repeater Field"
   ],
   "require": {
-    "laravel/framework": "^10.0",
+    "laravel/framework": "^11.0",
     "orchid/platform": "^14.0"
   },
   "require-dev": {
